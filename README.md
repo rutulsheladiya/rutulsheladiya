@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/rutulsheladiya?logo=github&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/rutulsheladiya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/sheladiya-rutul-9638081b1/](https://www.linkedin.com/in/sheladiya-rutul-9638081b1/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/rutulsheladiya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sheladiya-rutul-9638081b1/(https://www.linkedin.com/in/sheladiya-rutul-9638081b1/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
